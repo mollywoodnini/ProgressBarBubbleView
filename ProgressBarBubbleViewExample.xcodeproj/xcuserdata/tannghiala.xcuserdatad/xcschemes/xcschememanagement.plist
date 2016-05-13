@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ProgressBarBubbleView.xcscheme</key>
+		<key>ProgressBarBubbleViewExample.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C6CE972E1CE4AFB6003C0463</key>
+		<key>C602BED21CE5BF6E00578C17</key>
 		<dict>
 			<key>primary</key>
 			<true/>

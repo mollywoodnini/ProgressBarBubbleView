@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ProgressBarBubbleView
+//  ProgressBarBubbleViewExample
 //
-//  Created by Tan Nghia La on 12.05.16.
+//  Created by Tan Nghia La on 13.05.16.
 //  Copyright © 2016 Tan Nghia La. All rights reserved.
 //
 
