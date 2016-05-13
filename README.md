@@ -27,6 +27,7 @@ private let progressBarBubbleView = ProgressBarBubbleView(bubbleHeight: 40, barH
 ```
 
 ### Updating your process
+Just call the configure method with your results.
 ```swift
 let value: Int = 400
 let threshold: Int = 600
