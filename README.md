@@ -3,7 +3,7 @@
 The ProgressBarBubbleView is a UIView subclass, which displays the progress in a bar and in percent within a bubble view. Completely written in Swift.
 
 ## Screenshots
-![Preview](https://cloud.githubusercontent.com/assets/5786065/7445805/72750532-f1c2-11e4-8944-b213bccbce73.gif
+![Preview](https://cloud.githubusercontent.com/assets/5786065/15242917/fe98ab64-18f8-11e6-84cd-57f4ec0d906c.gif
 )
 
 ## Installation
